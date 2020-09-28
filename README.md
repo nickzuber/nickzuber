@@ -6,6 +6,8 @@ I currently work at [Robin](https://robinpowered.com/) building our maps product
 
 Shoot me an email — zuber.nicholas@gmail.com
 
+<!--
+
 <br />
 
 <a title="medium" target="_blank" href="https://medium.com/@nickzuber"><img align="left" height="20" src="https://user-images.githubusercontent.com/10540865/89345686-d9187d80-d675-11ea-892a-483d9e94070b.png" /></a>
@@ -14,3 +16,5 @@ Shoot me an email — zuber.nicholas@gmail.com
 <a title="angellist" target="_blank" href="https://angel.co/nicholas-zuber"><img align="left" height="24" src="https://user-images.githubusercontent.com/10540865/89348483-a0c76e00-d67a-11ea-8059-ffd73faf12ba.png" /></a>
 <a title="twitter" target="_blank" href="https://twitter.com/nick_zuber"><img align="left" height="20" src="https://user-images.githubusercontent.com/10540865/89347391-a9b74000-d678-11ea-8f0e-eaa071b19d69.png" /></a>
 <a title="linkedin" target="_blank" href="https://www.linkedin.com/in/nickzuber/"><img height="22" src="https://user-images.githubusercontent.com/10540865/89347674-395cee80-d679-11ea-88f1-64587a4753d4.png" /></a>
+
+-->
