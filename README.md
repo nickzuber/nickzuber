@@ -1,4 +1,4 @@
-### :sparkles: Hello :wave:
+### :sparkles: Hey-o :wave:
 
 My name is [Nick](https://nickzuber.com). I like plants, discrete maths, [chess](https://lichess.org/@/zube), programming language theory, playing soccer, taking [random photos](https://vsco.co/zuber/gallery), and showing my friends memes I find on reddit. 
 
