@@ -4,8 +4,6 @@ My name is [Nick](https://nickzuber.com). I like plants, discrete maths, [chess]
 
 I currently work at [Robin](https://robinpowered.com/) building our maps product to help folks visualize and build their office.
 
-Shoot me an email — zuber.nicholas@gmail.com
-
 <!--
 
 <br />
