@@ -1,8 +1,8 @@
 ### :sparkles: Hey-o :wave:
 
-I'm [Nick](https://nickzuber.com). I like plants, discrete maths, [chess](https://lichess.org/@/zube), programming language theory, playing soccer, going on a run (only when it's nice out), [taking photos](https://vsco.co/zuber/gallery), and sharing tiktoks with my friends. 
+I'm [Nick](https://nickzuber.com). I like plants, discrete math, [chess](https://lichess.org/@/zube), programming language theory, playing soccer, going for casual runs (only when it's nice out), [taking photos](https://vsco.co/zuber/gallery), and spamming my friends with tiktoks. 
 
-I currently work at [Notion](https://notion.so/) helping to improve the experience for larger organizations.
+I currently work at [Notion](https://notion.so/) building cool enterprise feature.
 
 <!--
 
