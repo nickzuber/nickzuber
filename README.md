@@ -2,7 +2,7 @@
 
 I'm [Nick](https://nickzuber.com). I like plants, discrete math, [chess](https://lichess.org/@/zube), programming language theory, playing soccer, going for casual runs (only when it's nice out), [taking photos](https://vsco.co/zuber/gallery), and spamming my friends with tiktoks. 
 
-I currently work at [Notion](https://notion.so/) building cool enterprise feature.
+I currently work at [Notion](https://notion.so/) building cool enterprise features.
 
 <!--
 
